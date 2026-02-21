@@ -1,5 +1,6 @@
 <!-- Hero text -->
-<h1 align="center">Hey 👋, I'm Ravindu Perera 👨‍💻</a></h1>
+<h1 align="center">
+  Hey 👋, I'm Ravindu Perera 👨‍💻</a></h1>
 
 <!-- Snake Game -->
 <picture>
