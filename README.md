@@ -16,7 +16,7 @@
 ---
 
 ### 💻 System Overview
-`[Status: Online]` 
+
 I am a results-driven professional specialized in bridging the gap between local infrastructure and the cloud. From managing **Azure ExpressRoute** for hybrid connectivity to orchestrating **710+ Kubernetes environments**, I build systems that are secure, scalable, and resilient.
 
 - 🎓 **Education:** BSc (Hons) IT - Second Upper Class, SLIIT
