@@ -21,7 +21,6 @@ I am a results-driven professional specialized in bridging the gap between local
 
 - 🎓 **Education:** BSc (Hons) IT - Second Upper Class, SLIIT
 - 🏢 **Current:** Network Administrator at Avantao Technologies, UK
-- ⚡ **Superpowers:** Troubleshooting L1/L2 issues and automating daily tasks
 
 ---
 
