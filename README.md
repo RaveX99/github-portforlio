@@ -1,3 +1,6 @@
+<!-- Hero text -->
+<h1 align="center">Hey 👋, I'm Ravindu Perera 👨‍💻</a></h1>
+
 <!-- Snake Game -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhiz2411/Abhiz2411/output/github-snake-dark.svg" />
