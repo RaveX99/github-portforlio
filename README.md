@@ -35,7 +35,7 @@ I am a results-driven professional specialized in bridging the gap between local
 
 ### 🛠️ The Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,kubernetes,linux,powershell,mysql,prometheus,grafana,servicenow,git,docker" />
+  <img src="https://skillicons.dev/icons?i=azure,kubernetes,linux,powershell,mysql,prometheus,grafana,git,docker" />
 </p>
 
 #### 📡 Networking & Infrastructure
